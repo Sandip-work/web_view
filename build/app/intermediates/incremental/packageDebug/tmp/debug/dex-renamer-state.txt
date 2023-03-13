@@ -1,0 +1,4 @@
+#Mon Mar 13 12:42:35 IST 2023
+base.0=/home/bhavini-pc/Documents/Yograj/demo/web_view/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
